@@ -2,4 +2,4 @@
 
 ### Languages : C & Java, actually learning C++
 
-<a href="https://gfycat.com/carefuldapperblackfly" target="blank"><img align="center" src="https://gfycat.com/carefuldapperblackfly" height="100" /></a>
+<iframe src='https://gfycat.com/ifr/CarefulDapperBlackfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='412'></iframe>
