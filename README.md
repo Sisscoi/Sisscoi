@@ -1,5 +1,5 @@
 ## ME
 
-### Languages : C & Java, actually learning C++
+### Languages : C, Python, Java, a lil bit of c# to play with the winapi
 
 
